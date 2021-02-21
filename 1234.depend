@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1610468019 source:d:\1234\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1610468019 d:\1234\conio2.h
+	<conio.h>
+	<windows.h>
+
+1612528083 source:d:\1234\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"conio2.h"
+	"rlyres.h"
+
+1612526946 d:\1234\rlyres.h
+
+1613848224 source:d:\1234\rlyres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conio2.h"
+	"rlyres.h"
+	<ctype.h>
+
